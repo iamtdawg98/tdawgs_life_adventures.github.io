@@ -1,0 +1,30 @@
+.navigation{
+	margin-bottom:5%;
+}
+.body{
+	background-image:url("http://www.designbolts.com/wp-content/uploads/2012/11/Free-medium-dark-Tileable-Pattern-Website-Background.jpg");
+	background-position:center center;
+	margin-top:-5%;
+}
+.header-two{
+	color:orangered;
+	font-size:36px;
+}
+.header-three{
+	color:dodgerblue;
+}
+.words{
+	color:ghostwhite;
+}
+#George{
+	height:300px;
+	width:300px;
+}
+#snek{
+	height:300px;
+	width:300px;
+}
+#pc-pic{
+	height:300px;
+	width:300px;
+}
